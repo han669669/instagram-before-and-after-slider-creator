@@ -18,6 +18,7 @@ import {
   Share2,
   Settings
 } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 import AppIcon from './components/AppIcon';
 import HeroSection from './components/HeroSection';
 import { useImages, useVideoGeneration, useError, useProcessing } from './stores/appStore';
@@ -693,6 +694,7 @@ function AppImproved() {
           </div>
         </div>
       </footer>
+      <Analytics />
     </div>
   );
 }
