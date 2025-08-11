@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Main Page -->
+  <url>
+    <loc>https://beforeafterslider.craftedbyhan.xyz/</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://beforeafterslider.craftedbyhan.xyz/og-image.png</image:loc>
+      <image:title>Before After Slider App Interface</image:title>
+      <image:caption>Create stunning before/after Instagram Reels with our free online tool</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Feature Pages (for future expansion) -->
+  <url>
+    <loc>https://beforeafterslider.craftedbyhan.xyz/instagram-reel-maker</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://beforeafterslider.craftedbyhan.xyz/photo-comparison-tool</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://beforeafterslider.craftedbyhan.xyz/how-to-use</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://beforeafterslider.craftedbyhan.xyz/examples</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Blog/Tutorial Pages (for future content) -->
+  <url>
+    <loc>https://beforeafterslider.craftedbyhan.xyz/blog</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://beforeafterslider.craftedbyhan.xyz/blog/create-viral-instagram-reels</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://beforeafterslider.craftedbyhan.xyz/blog/before-after-photography-tips</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://beforeafterslider.craftedbyhan.xyz/privacy</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://beforeafterslider.craftedbyhan.xyz/terms</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
